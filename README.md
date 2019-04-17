@@ -1,6 +1,6 @@
-# Program: Interest calculators
-## Simple Interest
-1.	User must enter the values for the principle Amount, Rate of interest and Time(in Years).
-2.	The formula: (P*T*R)/100 is used to compute simple interest.
-3.	The simple interest is printed.
-
+In this program we need to initialize 3 values as n1,n2,n3.
+Other wise we need to read or prompt values from user using input() method.
+After Initiolizing or reading values, we have to compare n1 with n2 and n3. 
+if n1 is bigger than n2 and n3 it prints n1 value
+otherwise we have to compare n2 and n3. 
+if n2 is bigger than n3 it prints n2 otherwise it prints n3.
